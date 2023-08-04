@@ -66,4 +66,4 @@ alert(calculate(arrayNumber[0],arrayNumber[1]));
 
 
 logiciel();
-//test
+//test2
