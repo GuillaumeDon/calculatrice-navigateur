@@ -61,9 +61,11 @@ chooseNumber();
 
 
 alert(calculate(arrayNumber[0],arrayNumber[1]));
+confirm('Voulez vous refaire un calcul?') ? logiciel() : alert('Au revoir');
 };
 
 
 
 logiciel();
+
 
